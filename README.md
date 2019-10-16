@@ -1,4 +1,4 @@
-# Kubenetes installation
+# Kubernetes installation
 ## Building a simple Kubernetes master and nodes Ubuntu on 18
 
 ### Master
